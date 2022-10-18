@@ -2,23 +2,23 @@
 
 How to run?
 
-Step 1: Download the entire code.
-Step 2: Use pycharm or visual studio code to open these files.
+Step 1: Download the entire code. 
+Step 2: Use pycharm or visual studio code to open these files. 
 Step 3: Run the main file to run the program.
 
-How to control the Paddles?
+How to control the Turtle?
 
-Use arrow keys to control the Right paddle:
+Note:
+The turtle can only move forward at a distance of 10 Paces.
 
-↑ -Move Right paddle Upwards
-↓ -Move Right paddle Downwards
-Use alphabet keys to control the Left paddle:(make sure caps lock is off)
+Use arrow keys to control the Turtle:
 
-'W' -Move Left paddle Upwards
-'S' -Move Left paddle Downwards
+↑ -Move Upwards
+
 Note:
 
-1.If turtle module is not present in your code runnning platform,then install turtle module and rerun the code.(Pycharm contains inbuilt turtle module) 2. Dont run the files separtely. Run the MAIN file alone.
+1.If turtle module is not present in your code runnning platform,then install turtle module and rerun the code.(Pycharm contains inbuilt turtle module) 
+2. Dont run the files separtely. Run the MAIN file alone.
 
 About the Game:
 
