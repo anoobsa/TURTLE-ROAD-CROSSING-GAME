@@ -2,9 +2,9 @@
 
 How to run?
 
-Step 1: Download the entire code. 
-Step 2: Use pycharm or visual studio code to open these files. 
-Step 3: Run the main file to run the program.
+  1. Download the entire code. 
+  2. Use pycharm or visual studio code to open these files. 
+  3. Run the main file to run the program.
 
 How to control the Turtle?
 
