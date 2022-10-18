@@ -18,7 +18,6 @@ Use arrow keys to control the Turtle:
 Note:
 
 1.If turtle module is not present in your code runnning platform,then install turtle module and rerun the code.(Pycharm contains inbuilt turtle module) 
-
 2. Dont run the files separtely. Run the MAIN file alone.
 
 About the Game:
@@ -32,8 +31,8 @@ Each files consist of separate classes to perfrom different tasks. All the class
 There are 4 files in the project:
 
 Main is the file which is executed to run the program.
-Paddle file consist of code which deals with creating and moving the paddles.
-Ball file consist of creating and moving the ball around the screen.
-Scoreboard file is to increase score to opponent player every time when you miss a ball between the paddle and also to print the score in the screen.
+car_manager file consist of code which deals with creating and managing the cars.
+player file consist of code in which the player controls the turtle.
+Scoreboard file is to increase score and to levelup player after a successful road cross and to  print the level in the screen.
 Screenshot of game is given below👇🏻👇🏻👇🏻:
 
