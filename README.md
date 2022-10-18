@@ -30,9 +30,9 @@ Each files consist of separate classes to perfrom different tasks. All the class
 
 There are 4 files in the project:
 
-Main is the file which is executed to run the program.
-car_manager file consist of code which deals with creating and managing the cars.
-player file consist of code in which the player controls the turtle.
-Scoreboard file is to increase score and to levelup player after a successful road cross and to  print the level in the screen.
+1. Main is the file which is executed to run the program.
+2. car_manager file consist of code which deals with creating and managing the cars.
+3. player file consist of code in which the player controls the turtle. 
+4. Scoreboard file is to increase score and to levelup player after a successful road cross and to  print the level in the screen.
 Screenshot of game is given below👇🏻👇🏻👇🏻:
 
