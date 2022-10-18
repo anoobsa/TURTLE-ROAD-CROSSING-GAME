@@ -17,12 +17,12 @@ How to control the Turtle?
 
 Note:
 
-1. If turtle module is not present in your code runnning platform,then install turtle module and rerun the code.(Pycharm contains inbuilt turtle module) 
+1. If turtle module is not present in your code running platform, then install turtle module and Re-run the code.(Pycharm contains inbuilt turtle module) 
 2. Dont run the files separtely. Run the MAIN file alone.
 
 About the Game:
 
-  In this game, player is helping the turtle to cross the road. If the turtle hits with any of the cars on the road then the turtle is died and the game is ended. If the turtle successfully crossed the road then the player is levelled up and also the speed of car is increased.
+  In this game, player is helping the turtle to cross the road. If the turtle hits with any of the cars on the road then the turtle is died and the game is ended. If the turtle successfully crossed the road, then the player is levelled up and also the speed of cars is increased.
 
 About the files:
 
